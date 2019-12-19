@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.my-button {
+  border: 1px solid blue;
+  background-color: white;
+}
+
+img.pokemon-image {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
